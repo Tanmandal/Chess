@@ -1,0 +1,7 @@
+settings: numThreads=4, hashSize=134217728, syzygyProbeDepth=50, syzygyPath=""
+settings: numThreads=4, hashSize=134217728, syzygyProbeDepth=1, syzygyPath=""
+warning: unknown command
+settings: numThreads=4, hashSize=134217728, syzygyProbeDepth=1, syzygyPath=""
+settings: numThreads=4, hashSize=134217728, syzygyProbeDepth=1, syzygyPath=""
+settings: numThreads=4, hashSize=134217728, syzygyProbeDepth=1, syzygyPath=""
+warning: unknown command
